@@ -2,6 +2,7 @@ import styled from "styled-components";
 import logo from "../assets/personally-logo-mobile.svg";
 import { useState } from "react";
 
+// something weird
 export default function Header(props) {
   const [toggleMenu, setToggleMenu] = useState(false);
 
